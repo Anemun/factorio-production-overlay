@@ -1,4 +1,5 @@
 # Release builds
+dist/
 *.zip
 
 # Editor / IDE
