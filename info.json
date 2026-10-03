@@ -1,0 +1,10 @@
+{
+  "name": "production-overlay",
+  "version": "0.5.0",
+  "title": "Production Overlay",
+  "author": "Anemun",
+  "homepage": "https://github.com/Anemun/factorio-production-overlay",
+  "factorio_version": "2.0",
+  "description": "Pin items and fluids to compact on-screen windows: production and consumption over the last minute, plus logistic network stock.",
+  "dependencies": ["base >= 2.0.0"]
+}

@@ -1,0 +1,46 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.5.0
+Date: 2026-10-02
+  Features:
+    - Stock bars count space platform hubs (Space Age) together with logistic networks.
+---------------------------------------------------------------------------------------------------
+Version: 0.4.2
+Date: 2026-10-02
+  Bugfixes:
+    - Fixed pinning a window failing and hiding the overlay.
+    - After an error, windows are rebuilt unpinned so a failing mode can't keep the overlay hidden.
+---------------------------------------------------------------------------------------------------
+Version: 0.4.1
+Date: 2026-10-02
+  Changes:
+    - Pinned overlay shows the surface name and can be dragged by a small handle next to the pin.
+---------------------------------------------------------------------------------------------------
+Version: 0.4.0
+Date: 2026-10-02
+  Features:
+    - Multiple independent overlay windows with their own lists, surfaces and modes.
+    - Surface dropdown: current, everywhere or a specific surface.
+  Changes:
+    - Shorter tooltips in both locales.
+    - The pin hotkey pins or unpins all windows.
+---------------------------------------------------------------------------------------------------
+Version: 0.3.0
+Date: 2026-10-02
+  Features:
+    - Logistic network toggle for stock bars: all networks or only the one the player is in.
+    - Buttons to reorder rows.
+  Changes:
+    - Stock bar colours: green at 90-110% of the target, purple above 110%.
+    - Lighter bar track in pinned mode; bars are shorter than icons so neighbouring bars don't merge.
+---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 2026-10-02
+  Features:
+    - Pinned mode: a compact click-through overlay with a small unpin button.
+    - Stock bars: per-item target and a vertical bar with the stock in logistic networks.
+    - Map setting for the update interval.
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2026-10-02
+  Features:
+    - Initial version: on-screen overlay with 1-minute production/consumption of pinned items and fluids.
